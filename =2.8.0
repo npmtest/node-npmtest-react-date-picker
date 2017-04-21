@@ -1,0 +1,5 @@
+npmtest-react-date-picker@0.0.1 /home/travis/build/npmtest/node-npmtest-react-date-picker
+├── moment@2.18.1 
+├── UNMET PEER DEPENDENCY react@>=0.14.0 || >=15.0.0
+└── UNMET PEER DEPENDENCY react-dom@>=0.14.0 || >=15.0.0
+

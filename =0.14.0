@@ -1,0 +1,4 @@
+npmtest-react-date-picker@0.0.1 /home/travis/build/npmtest/node-npmtest-react-date-picker
+└─┬ react-dom@15.5.4 
+  └── object-assign@4.1.1 
+
